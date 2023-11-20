@@ -1,0 +1,15 @@
+import styled from "styled-components";
+
+
+
+const WhiteBox = styled.div`
+
+background-color: #fff;
+border-radious: 10px;
+padding:30px;
+
+`;
+
+
+
+export default WhiteBox;
